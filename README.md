@@ -54,3 +54,7 @@ src/
 ├── App.css
 ├── index.css
 └── main.jsx
+
+## Status do projeto
+
+Projeto acadêmico em feito.
